@@ -67,7 +67,7 @@ doi
 
 template:
 
-@article{AlBo2012:HERMEV,
+@article{AllBou2012:HERMEV,
   title = {Eigenvector dynamics: General theory and some applications},
   author = {Allez, R. and Bouchaud, J.-P.},
   journal = {Phys. Rev. E},
