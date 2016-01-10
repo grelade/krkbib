@@ -124,4 +124,25 @@ template:
 
 Fields for @book:
 
+title
+	Title of the book
+
+author
+	authors of the book in the format:
+	Lastname, N.
+publisher
+	book's publisher
+year
+	year published
+edition
+	edition in a numeric form
+
+
+@book{Moi2011:NHQMBOOK,
+   author = {Moiseyev, N.}, 
+   title = {Non-Hermitian Quantum Mechanics},
+   publisher = {Cambridge University Press},
+   year = {2011},
+   edition = {1},
+}
 
