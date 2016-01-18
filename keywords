@@ -1,0 +1,40 @@
+bIn the database we use various keywords to sort the papers of choice. 
+We describe below ones used below. 
+It is desirable to create new keywords if existing ones does not suffice.
+
+KEYWORDS:
+classic - classical or very influential papers
+eigenvector - works on eigenvectors
+nonhermitian - works on non-hermitian phenomena (whether random matrices or other)
+chardet - characteristic polynomials in the rmt context
+rmt - works on random matrix theory
+krk - works of krakow group 
+csmodel - Calogero-Sutherland models
+2-matrix - two matrix models
+neuronal - neuronal networks
+diffusion - diffusing random matrices
+universality - works on universal behaviour of rmt
+qcd - quantum chromodynamics
+wishart - wishart matrices
+biorthogonal - biorthogonal polynomials
+burgers - works on Burgers equation
+unitary - unitary random matrices
+qchaos - quantum chaos stuff
+time-lagged - analysis of different time correlations
+lasers - stuff on lasers
+brown - brownian motion
+qmethod - quaternionic method
+freeprob - free probability
+
+qhall - quantum hall effect
+externalsource - external source matrix models
+outlier - papers on extremal/outlier values
+normal - normal matrix models
+supersymmetry - papers on supersymmetry
+qtransport - quantum transport
+mimo - mimo stuff
+product - product of matrices
+collective - collective field method
+hciz - Harish-Chandra-Itzykson-Zuber integral
+network - network/graphs works
+opensystem - works on open systems
