@@ -98,11 +98,11 @@ II. Bibtex files
 
       We provide examples:
 
-    ChaMeh1998:EIGENVECTOR
+    CM1998:EIGENVECTOR
 
       for a paper on eigenvectors of two authors Chalker and Mehlig published in 1998.
 
-    BGNW2015:HERMDETS
+    BGN+2015:HERMDETS
 
       this paper on hermitian determinants was published by 4 authors: Blaizot, Grela, Nowak and Warchol. Date of publication is 2015.
 
