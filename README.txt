@@ -1,7 +1,7 @@
 
 KRKbib bibliography README file
-v. 0.01b 
-Jacek Grela 16.01.2016
+v. 0.02b 
+Jacek Grela 19.01.2016
 
 This readme file contains most of the information needed to use and maintain the krkbib bibliography file in a consistent manner. 
 
@@ -316,8 +316,9 @@ IV. File description
 
   Files contained in the krkbib directory are the following:
 
-    bib-all.tex - a tex file with all
-    bibtemp.tex - template file with the bibtex bibliography set up 
+    bib-all.tex - a tex file with all (uses biblatex)
+    temp-biblatex.tex - template file with the bibliography set up (uses biblatex)
+    temp-revtex.tex - template file with the bibliography set up, compatible with revtex (uses bibtex)
     jabrefset.xml - JabRef standard settings (used by JabRef)
     jourabbr - journal abbreviation (used by JabRef)
     keywords - list of keywords used to group the entries
